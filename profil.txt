@@ -1,0 +1,5 @@
+nama:Aron
+Nim:622024024
+Fakultas:FTEK
+Prodi:Tekom
+Umur:20
